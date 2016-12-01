@@ -1,6 +1,12 @@
 # Site navigation links
 
-- title: Apple
-  url:
-  excerpt:
+- title: About
+  url: /portfolio/
+  excerpt: "All about Rubed Up Lube"
   image:
+  
+- title: 
+url: 
+excerpt: 
+image:
+
